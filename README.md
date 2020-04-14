@@ -13,6 +13,9 @@
         * [Android Studio 快捷键 mac版](http://szysky.com/2016/05/20/Android-Studio-%E5%BF%AB%E6%8D%B7%E9%94%AE-mac/)
         * [Retrofit(一)-入门使用](http://szysky.com/2016/07/18/Retrofit-%E4%B8%80-%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8/)
         * [Android绘图篇-01 Canvas和Paint的基础使用](http://szysky.com/2016/07/05/Android-%E7%BB%98%E5%9B%BE%E7%AF%87-1-Canvas%E5%92%8CPaint%E7%9A%84%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8/)
+        * [Android 状态管理最佳实践！](https://juejin.im/post/5d1a148e6fb9a07ea6488ba3)
+    * **`四大组件`**
+        * [绝不丢失状态的 Activity 重建机制！](https://juejin.im/post/5d03be376fb9a07eca697906)
     * **`framework`**
         * [深入WindowManager](http://szysky.com/2016/11/28/%E6%B7%B1%E5%85%A5WindowManager/)
         * [认知WindowManagerService](http://szysky.com/2016/11/28/WindowManagerService/)   
